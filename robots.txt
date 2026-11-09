@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sgrey1894.github.io/primeledger-bookkeepingllcph/sitemap.xml
