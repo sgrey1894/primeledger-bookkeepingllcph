@@ -1,6 +1,6 @@
 # ProVidar Bookkeeping— Full Website Package
 
-A responsive, static website for PrimeLedger Bookkeeping LLC, based on the business information supplied in the uploaded company website document and the service details shared in chat.
+A responsive, static website for ProVidar Bookkeeping, based on the business information supplied in the uploaded company website document and the service details shared in chat.
 
 ## Website contents
 - `index.html` — all website sections and business information
