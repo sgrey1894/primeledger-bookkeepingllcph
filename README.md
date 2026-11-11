@@ -1,4 +1,4 @@
-# PrimeLedger Bookkeeping LLC — Full Website Package
+# ProVidar Bookkeeping— Full Website Package
 
 A responsive, static website for PrimeLedger Bookkeeping LLC, based on the business information supplied in the uploaded company website document and the service details shared in chat.
 
@@ -9,11 +9,10 @@ A responsive, static website for PrimeLedger Bookkeeping LLC, based on the busin
 - `assets/primeledger-logo.png` — supplied company logo
 
 ## Included company information
-- PrimeLedger Bookkeeping LLC
-- Philippines-based remote bookkeeping services for U.S. businesses
-- Tagline: “Your Numbers. Our Expertise. Your Growth.”
+- ProVidar Bookkeeping
+- Tagline: “Our Expertise. Your Numbers. Your Growth.”
 - Email: primeledger.bkservices@gmail.com
-- Phone / WhatsApp: +63 912 736 7023
+- Phone/WhatsApp: +63 912 736 7023
 - Company introduction, About, Mission, Vision, Services, Why Choose PrimeLedger, Who We Serve, Our Commitment, and Let's Work Together sections.
 
 ## Services displayed
@@ -28,7 +27,6 @@ A responsive, static website for PrimeLedger Bookkeeping LLC, based on the busin
 - Ongoing Monthly Bookkeeping
 - Catch-Up Bookkeeping
 
-The website does not advertise payroll or tax preparation services.
 
 ## Preview locally
 1. Extract this ZIP file.
